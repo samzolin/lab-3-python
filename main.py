@@ -1,9 +1,9 @@
 # Author: Samantha Zolin saz5193@psu.edu
-# Collaborator:
-# Collaborator:
-# Collaborator:
+# Collaborator: Nathan Donahue ndd5167@psu.edu
+# Collaborator: Matthew Frabizio mjf6328@psu.edu
+# Collaborator: Max Simpson mes6581@psu.edu
 # Section: 10
-# Breakout: 
+# Breakout: 13
 def sum_n(n):
   if(n <= 0):
     return 0
